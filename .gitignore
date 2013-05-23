@@ -11,3 +11,4 @@ build/*
 release/*
 master
 node_modules/
+npm-debug.log
