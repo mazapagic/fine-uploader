@@ -1,0 +1,30 @@
+{
+  "name": "fine-uploader",
+  "version": "3.6.0",
+  "description": "Multiple file upload plugin with progress-bar, drag-and-drop.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "./node_modules/buster/bin/buster-test",
+    "tstsrv": "./node_modules/buster/bin/buster-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Widen/fine-uploader.git"
+  },
+  "author": "Widen Enterprises, Inc.",
+  "license": "GPLv3",
+  "readmeFilename": "readme.md",
+  "gitHead": "caee16b0edc50910ad9bee5d54a9f41b782ed2fe",
+  "bugs": {
+    "url": "https://github.com/Widen/fine-uploader/issues"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "buster": "~0.6.12"
+  }
+}

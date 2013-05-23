@@ -10,3 +10,4 @@ test/uploadsTemp/
 build/*
 release/*
 master
+node_modules/
