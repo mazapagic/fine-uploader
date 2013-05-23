@@ -12,3 +12,5 @@ release/*
 master
 node_modules/
 npm-debug.log
+
+!.travis.yml
